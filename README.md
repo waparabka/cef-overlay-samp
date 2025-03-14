@@ -1,7 +1,5 @@
 # cef-overlay-samp
 
-Проект `cef-overlay-samp` представляет собой интеграцию Chromium Embedded Framework (CEF) в игру San Andreas Multiplayer (SAMP) для создания оверлея с использованием CEF и DirectX.
-
 ## Порядок действий для сборки и запуска проекта
 
 ### 1. Скачивание и настройка CEF
