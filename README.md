@@ -40,7 +40,7 @@
 
 7. Копирование файлов в папку с игрой
 
-    Скопируйте cef_sub-process.exe и все файлы (кроме include) из папки C:\cef_binary\Release в папку с игрой.
+    Скопируйте cef-sub-process.exe и все файлы (кроме include) из папки C:\cef_binary\Release в папку с игрой.
 
     Поместите cef-overlay-samp.asi в папку с игрой.
 
