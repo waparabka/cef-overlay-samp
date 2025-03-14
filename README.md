@@ -35,8 +35,6 @@
 6. Сборка обоих проектов
 
     Соберите оба проекта с помощью CMake:
-    bash
-    Copy
 
     cmake -B project -A Win32
 
