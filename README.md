@@ -29,8 +29,6 @@
 5. Установка ImGui через vcpkg
 
     Установите ImGui с необходимыми компонентами через vcpkg:
-    bash
-    Copy
 
     vcpkg install imgui[core,dx9-binding,win32-binding]:x86-windows-static
 
